@@ -1,0 +1,47 @@
+
+--- HASTA YATAGI HAREKET ANALIZ RAPORU ---
+
+Toplam analiz suresi: 18.00 saniye
+
+Ortalama Motion Score: 14.78
+Maksimum Motion Score: 30.72
+
+Ortalama Center Shift: 19.96
+Maksimum Center Shift: 56.25
+
+Ortalama Risk Score: %44.49
+Maksimum Risk Score: %80.00
+
+Olay Bazli Sayim:
+Pozisyon degistirme / donme olayi: 5
+Aktif hareket olayi: 6
+Minor hareket olayi: 1
+Hareketsizlik uyarisi olayi: 0
+
+Yon / Kayma Analizi:
+Saga kayma sayisi: 3
+Sola kayma sayisi: 8
+Dogrulma sayisi: 3
+
+Alarm Ozetleri:
+Toplam alarm olayi: 6
+Ani hareket alarmi: 3
+Belirgin pozisyon degisimi alarmi: 5
+Basi yarasi riski alarmi: 0
+
+Kullanilan Esikler:
+Motion Threshold: 4.0
+Turn Threshold: 15.0
+Sudden Motion Threshold: 25.0
+High Center Shift Threshold: 35.0
+Turn X Threshold: 20
+Upward Y Threshold: 15
+Immobile Seconds: 5
+
+Yorum:
+Bu analizde ust vucut keypointleri kullanilarak hastanin hareket yogunlugu, pozisyon degisimi, yonlu kayma ve risk durumu incelenmistir.
+Motion Score eklem noktalarinin kareler arasi ortalama hareketini, Center Shift ise ust vucut merkezinin yer degisimini temsil eder.
+Risk Score; hareket siddeti, merkez kaymasi ve hareketsizlik suresinin agirlikli birlesimi ile hesaplanmistir.
+
+Risk Score Aciklamasi:
+Risk Score; hastanin hareket yogunlugu, pozisyon degisimi ve hareketsizlik durumuna bagli davranissal risk seviyesini temsil etmektedir.
