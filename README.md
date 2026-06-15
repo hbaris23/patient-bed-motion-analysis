@@ -30,7 +30,7 @@ pip install -r requirements.txt
 After installing the required libraries, run the Python file:
 
 ```powershell
-python geliştirilmiş_ödev.py
+python patient-bed-motion-analysis.py
 ```
 
 ## Input Video
