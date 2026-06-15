@@ -45,13 +45,15 @@ Required video file:
 
 ## Outputs
 
-After the project runs, the following output files are created automatically:
+Example output files are included in the `outputs` folder. After running the project, the following files can also be generated automatically:
 
-* output_fast.mp4
-* motion_log.csv
-* motion_graph.png
-* dashboard.png
-* analiz_raporu.txt
+- output_fast.mp4
+- motion_log.csv
+- motion_graph.png
+- dashboard.png
+- analiz_raporu.txt
+
+
 
 ## Notes
 
